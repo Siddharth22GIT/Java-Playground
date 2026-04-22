@@ -1,0 +1,118 @@
+Array - Linear data structure
+
+Disadvantage:
+1. Fixed size
+2. Continuos storing of elements
+3. Accepts only homogeneous data 
+
+
+Types:
+1. 1D array - only rows or columns.
+
+
+
+2. 2D array - rows and columns.
+- Can be called a stack of 1D arrays.
+
+
+
+3. 3D array / multidimensional
+- Can be called as a stack of 2D arrays.
+
+
+DYNAMIC ARRAY CREATION - using new keyword.
+
+
+Method is a block of code which is used to perform particular task.
+ADV - Code reusability, Easy debugging
+
+
+Types of METHODS
+1. Pre-defined/ Inbuilt
+2. User-defined
+
+
+                 TASKS
+1. Print all elements of an array.
+2. Print all elements reverse order.
+3. Print even numbers in array.
+4. Print odd numbers in array.
+5. Print how many odd and even numbers in array.
+6. Print sum of the array.
+7. Print the sum of the even numbers in array.
+8. Print the sum of the odd numbers in array.
+9. Print prime numbers in array.
+10. Print the average value of array.
+11. Find the maximum value in array.
+12. Find the minimum value in array.
+13. Search in an array.
+14. Skip the particular value in array.
+
+
+OOPS- It's a methodology. It contains collection of features to solve the real world problems.
+
+BASIC CONCEPTS
+Class - Blueprint or template which is used to create an Objects
+Objects - Instance of class used to access the class properties
+Static - non-access modifier used to declare members that belongs to the class itself, rather than any specific instance.
+Constructor - Special type of method. It automatically executes when an instance of object.
+
+** this - Keyword used to refer the current object.
+
+
+Types of Constructor: 
+1. Default
+2. Parameterized 
+3. Copy 
+ 
+
+MAIN CONCEPTS:
+Encapsulation - The process of wrapping the data into the single entity. To understand encapsulation you should know access modifiers.
+Inheritance - The process used to properties and behaviour from one class to another class.
+Polymorphism
+Abstraction
+
+
+Initializer block are the blocks of code which will automatically executes when instance of an object is created or class is loaded.
+
+Types of Initializer block: 
+1. Static Initializer block
+2. Intance Initializerb block
+
+
+S T R I N G
+String is a class. It is a collection of characters. It's a non primitve data type. It's immutable.
+
+Creating a string: 
+2 ways -> 
+1. String str = "Hello".
+2. Using String class (making an object).
+
+Enumeration - It's a special type of class in java which is used to definie a fixed set of named constant values.
+
+Two types of initializers -
+Instance Initializer / Static instance initializer
+
+
+If you want to access private property you should create two methods getter method and setter method.
+
+Types of Inheritance: 
+1. single
+2. multi-level
+3. multiple
+4. heirarchial
+5. hybrid
+
+* When a class inherits from another class it is single Inheritance which itself also has one subclass.
+
+Polymorphism -
+is a concept where one concept is able to perform multiple ways.
+
+Method overloading , method overwriting
+
+Multiple method with same name, same parameter but different class.
+
+
+Rules and regulations of interface
+
+1. 
